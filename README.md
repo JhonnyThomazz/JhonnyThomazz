@@ -1,5 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+code&weight=500&size=22&pause=1000&color=1D9399&center=true&vCenter=true&random=false&width=524&lines=%E2%99%AB+Welcome+to+my+fortress!+%E2%99%AB" alt="Typing SVG">
+  </a>
+</div>  
 
-##
 <p allign"left"> Wassup! just a dude that loves java and programming, feel free to take a look arround. Oh, im also a big Doom fan, i like fast-paced brutal shooters and movement shooters in general, gaming stuff you know? Besides gaiming, i love reading too, my favorite book series is Percy Jackson and the Olympians, but i like to read anything action and sci-fi related. Thats about it for now! Still doing some tweaks on the profile and on the README stuff, learing new things and all that...im gonna revamp this file soon.
 
 
