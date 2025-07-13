@@ -1,10 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rubik+code&weight=500&size=22&pause=1000&color=1D9399&center=true&vCenter=true&random=false&width=524&lines=%E2%99%AB+Welcome+to+my+fortress!+%E2%99%AB" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+code&weight=500&size=22&pause=1000&color=8B0000&center=true&vCenter=true&random=false&width=524&lines=+Welcome+to+my+fortress!" alt="Typing SVG">
   </a>
-</div>  
-    
+   <img width="1080" height="607" alt="image" src="https://github.com/user-attachments/assets/e370449f-c801-4fab-9635-0c3ab89cd7b7" />
+ <p allign"left"> 💀🎸💀
   
+</div>  
+
+
 <p allign"left"> Wassup! My name is João Thomaz, but you can call me Jhonny.
   
   I'm just a dude who loves programming. Currently studying system development in SENAI, as well as doing some projects by myself. I also love gaming and reading in my free time. My favorite book series is Percy Jackson and the Olympians; as for games, I gotta go with DOOM Eternal, ULTRAKILL, and any FPS that focuses on movement while being badass. Outside the shooter world, I also like the Devil May Cry Series; Really Ssstylish games. The most recent project that I'm working on is an RPG game on the Godot game engine! So I'm trying to understand GDScript and all that fuzz alongside some other stuff in game development, but having knowledge of Java makes it way easier, even if it is a whole different language. 
