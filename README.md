@@ -14,12 +14,6 @@
   
 That's All Folks!
 
-
-
-##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonnyThomazz&show_icons=true&theme=tokyonight)
-
 ##
 
 <div style="display: inline_block"><br>  
@@ -33,4 +27,12 @@ That's All Folks!
   <img align="center" alt="Jhonny-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" ">  
   <img align="center" alt="Jhonny-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" "> 
 </div>
+
+##
+
+ <div style="display: flex; justify-content: center; gap: 100px;"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=JhonnyThomazz&show_icons=true&theme=midnight-purple" style="height: 160px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyThomazz&layout=compact&theme=midnight-purple" style="height: 160px;" />
+  </div>
   
+##
