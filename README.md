@@ -2,8 +2,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Rubik+code&weight=500&size=22&pause=1000&color=8B0000&center=true&vCenter=true&random=false&width=524&lines=+Welcome+to+my+fortress!" alt="Typing SVG">
   </a>
-   <img width="1080" height="607" alt="image" src="https://github.com/user-attachments/assets/e370449f-c801-4fab-9635-0c3ab89cd7b7" />
- <p allign"left"> 💀🎸💀
+  <p allign"center"> <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e370449f-c801-4fab-9635-0c3ab89cd7b7" />
+ <p allign"center"> 💀🎸💀🎸💀🎸💀
   
 </div>  
 
