@@ -15,7 +15,6 @@
 That's All Folks!
 
 ##
-
 <div style="display: inline_block"><br>  
   |
   <img align="center" alt="Jhonny-Arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" ">
