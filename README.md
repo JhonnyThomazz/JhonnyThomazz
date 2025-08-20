@@ -36,8 +36,8 @@ That's All Folks!
 ##
 
  <div style="display: flex; justify-content: center; gap: 100px;"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=JhonnyThomazz&show_icons=true&theme=midnight-purple" style="height: 160px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyThomazz&layout=compact&theme=midnight-purple" style="height: 160px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JhonnyThomazz&show_icons=true&theme=aura" style="height: 160px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyThomazz&layout=compact&theme=aura" style="height: 160px;" />
   </div>
   
 ##
