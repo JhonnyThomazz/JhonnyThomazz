@@ -16,28 +16,30 @@ That's All Folks!
 
 ##
 <div style="display: inline_block"><br>  
-  |
   <img align="center" alt="Jhonny-Arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" ">
-  <img align="center" alt="Jhonny-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" ">
-  <img align="center" alt="Jhonny-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" ">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-  <img align="center" alt="Jhonny-Browser" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opera/opera-original.svg" ">
-  <img align="center" alt="Jhonny-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" "> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
   <img align="center" alt="Jhonny-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" ">
   <img align="center" alt="Jhonny-Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" ">
-  <img align="center" alt="Jhonny-Docker" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" ">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+  <img align="center" alt="Jhonny-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" ">
   <img align="center" alt="Jhonny-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" ">
-  <img align="center" alt="Jhonny-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" "> 
+  <img align="center" alt="Jhonny-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" ">
+  <img align="center" alt="Jhonny-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" ">
+  <img align="center" alt="Jhonny-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" ">
+  
+  
 </div>
 
 ##
 
- <div style="display: flex; justify-content: center; gap: 100px;"> 
+<div align="center">
+  
+<h3>Github Stats</h3>
+  
+ <div style="display: flex; justify-content: center; gap: 30px;"> 
     <img src="https://github-readme-stats.vercel.app/api?username=JhonnyThomazz&show_icons=true&theme=aura" style="height: 160px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyThomazz&layout=compact&theme=aura" style="height: 160px;" />
   </div>
+  
+</div>
   
 ##
 <picture align="center">
