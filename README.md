@@ -1,26 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rubik+code&weight=500&size=22&pause=1000&color=8B0000&center=true&vCenter=true&random=false&width=524&lines=+Welcome+to+my+fortress!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+code&weight=500&size=24&pause=1000&color=8B0000&center=true&vCenter=true&random=false&width=800&lines=+Welcome+to+my+fortress!;Hope+you+enjoy+your+stay!;And+remember...+Code+with+your+brain,+debug+with+your+heart." alt="Typing SVG">
   </a>
-  <p allign"center"> <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/e370449f-c801-4fab-9635-0c3ab89cd7b7" />  
-</div>  
-
-
-##
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jhonny-Arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" ">
-  <img align="center" alt="Jhonny-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" ">
-  <img align="center" alt="Jhonny-Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" ">
-  <img align="center" alt="Jhonny-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" ">
-  <img align="center" alt="Jhonny-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" ">
-  <img align="center" alt="Jhonny-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" ">
-  <img align="center" alt="Jhonny-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" ">
-  <img align="center" alt="Jhonny-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" ">
   
-  
+  ##
+  <p allign"center"> <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/bcfaf9bd-c18d-4018-80c2-2f73d6bdf54b" />  
 </div>
-
-##
 
 <div align="center">
   
