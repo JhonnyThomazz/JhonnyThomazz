@@ -1,10 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rubik+code&weight=500&size=24&pause=1000&color=8B0000&center=true&vCenter=true&random=false&width=800&lines=+Welcome+to+my+fortress!;Hope+you+enjoy+your+stay!;And+remember...+Code+with+your+brain,+debug+with+your+heart." alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+code&weight=500&size=24&pause=1000&color=704C96&center=true&vCenter=true&random=false&width=800&lines=+Welcome+to+my+fortress!;Hope+you+enjoy+your+stay!;And+remember...+Code+with+your+brain,+debug+with+your+heart." alt="Typing SVG">
   </a>
   
   ##
-  <p allign"center"> <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/bcfaf9bd-c18d-4018-80c2-2f73d6bdf54b" />  
+  <p allign"center"> <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/0d83a2b7-b03c-4be5-9084-5e0f45e2ae8f" />
+
 </div>
 
 <div align="center">
