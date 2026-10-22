@@ -1,7 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rubik+code&weight=500&size=24&pause=1000&color=704C96&center=true&vCenter=true&random=false&width=800&lines=+Welcome+to+my+fortress!;Hope+you+enjoy+your+stay!;And+remember...+Code+with+your+brain,+debug+with+your+heart." alt="Typing SVG">
-  </a>
+  
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?pause=2500&backgroundOpacity=0&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Welcome+to+my+fortress%21%22%2C%22font%22%3A%22Fira+Code%22%2C%22color%22%3A%22%23946f94%22%2C%22typingSpeed%22%3A0.025%2C%22deleteSpeed%22%3A0.03333333333333333%7D%2C%7B%22text%22%3A%22Take+a+look+around.%22%2C%22font%22%3A%22Fira+Code%22%2C%22color%22%3A%22%23704c96%22%2C%22typingSpeed%22%3A0.025%2C%22deleteSpeed%22%3A0.03333333333333333%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
   
   ##
   <p allign"center"> <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/0d83a2b7-b03c-4be5-9084-5e0f45e2ae8f" />
